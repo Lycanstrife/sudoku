@@ -1,3 +1,0 @@
-describe grid do
-	
-end
